@@ -29,6 +29,7 @@ Total Items = COUNT(Items)
 Average Rating = AVERAGE(Rating)
 
 5. Visualizations and Dashboards:
+   
    Created charts and graphs to visualize business insights:
 
 Total Sales by Fat Content: Used bar or column charts to show sales distribution across fat content categories.

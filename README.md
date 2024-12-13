@@ -19,19 +19,30 @@ Designed the project to address total sales, average sales, number of items, ave
 
 3. Data Modeling:Established relationships between tables to create a unified data model.
 Used DAX formulas to calculate measures such as:
+
 Total Sales = SUM(Sales)
+
 Average Sales = AVERAGE(Sales)
+
 Total Items = COUNT(Items)
+
 Average Rating = AVERAGE(Rating)
 
 5. Visualizations and Dashboards:
    Created charts and graphs to visualize business insights:
+
 Total Sales by Fat Content: Used bar or column charts to show sales distribution across fat content categories.
+
 Total Sales by Item Type: Created a category-wise breakdown of sales using a stacked bar chart or pie chart.
+
 Fat Content by Outlet for Total Sales: Visualized using a clustered bar chart or a matrix table.
+
 Total Sales by Outlet Establishment: Used a line chart or bar chart to analyze performance across outlet establishments.
+
 Sales by Outlet Size: Represented using treemaps or bar charts.
+
 Sales by Outlet Location: Illustrated through geographic maps or clustered column charts.
+
 All Metrics by Outlet Type: Created a dashboard with KPIs and aggregated metrics, combining slicers for interactive filtering.
 
 7. Interactive Features:Added slicers for filtering by fat content, item type, outlet location, and establishment type.

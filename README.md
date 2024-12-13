@@ -16,9 +16,8 @@ Created calculated columns and measures for metrics such as total sales, average
 
 2. Defining Business Requirements:Mapped key business requirements to specific metrics and visualizations.
 Designed the project to address total sales, average sales, number of items, average rating, and other KPIs based on outlet type, location, and establishment details.
-Data Modeling:
 
-3. Established relationships between tables to create a unified data model.
+3. Data Modeling:Established relationships between tables to create a unified data model.
 Used DAX formulas to calculate measures such as:
 Total Sales = SUM(Sales)
 Average Sales = AVERAGE(Sales)
@@ -26,7 +25,7 @@ Total Items = COUNT(Items)
 Average Rating = AVERAGE(Rating)
 Visualizations and Dashboards:
 
-4. Created charts and graphs to visualize business insights:
+5. Created charts and graphs to visualize business insights:
 Total Sales by Fat Content: Used bar or column charts to show sales distribution across fat content categories.
 Total Sales by Item Type: Created a category-wise breakdown of sales using a stacked bar chart or pie chart.
 Fat Content by Outlet for Total Sales: Visualized using a clustered bar chart or a matrix table.
@@ -36,15 +35,15 @@ Sales by Outlet Location: Illustrated through geographic maps or clustered colum
 All Metrics by Outlet Type: Created a dashboard with KPIs and aggregated metrics, combining slicers for interactive filtering.
 Interactive Features:
 
-5. Added slicers for filtering by fat content, item type, outlet location, and establishment type.
+6. Added slicers for filtering by fat content, item type, outlet location, and establishment type.
 Enabled drill-through and drill-down options to explore detailed insights from summary views.
 Testing and Validation:
 
-6. Cross-verified the calculated metrics against the source data to ensure accuracy.
+7. Cross-verified the calculated metrics against the source data to ensure accuracy.
 Tested all visualizations for responsiveness and correctness of filters.
 Dashboard Finalization:
 
-7. Organized all visualizations into a cohesive and user-friendly dashboard.
+8. Organized all visualizations into a cohesive and user-friendly dashboard.
 Used consistent color schemes and labeled charts clearly for better readability.
 
 

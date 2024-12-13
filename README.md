@@ -13,9 +13,8 @@ Data Collection and Preparation:
 1. Imported Blinkit grocery dataset into Power BI.
 Cleaned and transformed the data by removing duplicates, handling missing values, and formatting columns for consistency.
 Created calculated columns and measures for metrics such as total sales, average sales, number of items sold, and average rating.
-Defining Business Requirements:
 
-2. Mapped key business requirements to specific metrics and visualizations.
+2. Defining Business Requirements:Mapped key business requirements to specific metrics and visualizations.
 Designed the project to address total sales, average sales, number of items, average rating, and other KPIs based on outlet type, location, and establishment details.
 Data Modeling:
 
